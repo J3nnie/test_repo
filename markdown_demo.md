@@ -10,4 +10,4 @@ print("hello world")
 
 And here is some use of emoji :wave: 
 
-Some use of color, finally `#FF0000`
+Some use of color, finally `#FF0000`. OK JK, not supported for all `.md` yet :sob:
